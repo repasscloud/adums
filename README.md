@@ -1,1 +1,1 @@
-# adums
+# ActiveDirectory User Management System (adums)
